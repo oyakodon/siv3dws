@@ -1,0 +1,19 @@
+#ctrlPad
+{
+	margin: 1.5em auto;
+  background:lightgray;
+  width: 300px;
+  line-height:300px;
+  text-align: center;  
+}
+
+pre
+{
+  margin: 1.5em auto;
+  padding: 1em;
+  border: 1px solid #cfccc6;
+  clear: both;
+  width: 90%;
+  color: #333333;
+  background-color: #edeae4;
+}
